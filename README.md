@@ -1,7 +1,5 @@
 #  Drip Store - Front-End
 
-![Drip Store Banner]
-
 ##  Descrição do Projeto
 O **Drip Store** é uma aplicação web de e-commerce focada em moda urbana e streetwear. Este projeto corresponde à **camada front-end**, responsável pela interface do usuário, navegação, exibição de produtos e interação com a API do back-end.
 
