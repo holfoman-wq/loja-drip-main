@@ -7,7 +7,7 @@ O objetivo é proporcionar uma experiência de compra rápida, intuitiva e visua
 
 ---
 
-##  Tecnologias Utilizadas
+##  tecnologias utilizadas
 - **Linguagens:** HTML5, CSS3, JavaScript (ES6+)
 - **Frameworks / Bibliotecas:**  
   - React.js  
